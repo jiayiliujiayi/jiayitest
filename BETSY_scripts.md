@@ -8,5 +8,5 @@ betsy_run.py --network_png ssgsea.pdf --num_cores 23 \\
 --run
 
 > The alternative***  
-> ***--mattr geneset_database=hallmarks***
+> ***--mattr geneset_database=hallmarks***  
 > ***--mattr geneset_database2=curated***
