@@ -7,6 +7,6 @@ betsy_run.py --network_png ssgsea.pdf --num_cores 23 \\
 ***--mattr geneset_file2=.gmt \\***  
 --run
 
-> *'An alternative: '*  
+> *An alternative: *  
 > ***--mattr geneset_database=hallmarks***  
 > ***--mattr geneset_database2=curated***
