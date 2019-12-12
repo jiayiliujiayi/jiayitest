@@ -4,7 +4,7 @@ betsy_run.py --network_png ssgsea.pdf --num_cores 23 \\\
 --dattr SignalFile.preprocess=count \\\
 --output ssGSEAResults --output_file out-ssgsea \\\
 *--mattr geneset_file=.gmt \\\*   
-*--mattr geneset_file2=.gmt \\\*
+*--mattr geneset_file2=.gmt \\\*  
 --run
 
 alternative:
